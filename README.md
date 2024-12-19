@@ -14,4 +14,5 @@ ElevenLabs: Transform text into high-quality speech.
 4️⃣ ElevenLabs verbalizes the response.
 5️⃣ Repeat while maintaining the full conversation history!
 
+demo link (https://www.linkedin.com/posts/martinkhristi_ai-opensource-voiceassistant-activity-7275623089260908544-b2qm?utm_source=share&utm_medium=member_desktop)
 
